@@ -1,0 +1,40 @@
+{
+  "profiles": [
+    {
+      "id": "1",
+      "name": "Hedy Lamarr",
+      "imageUrl": "https://imgur.com/tL3aWS6.jpg",
+      "description": "Hedy Lamarr, born Hedwig Eva Maria Kiesler in 1914, was a trailblazing Austrian-American actress and inventor whose life spanned the realms of Hollywood glamour and scientific innovation. Renowned for her captivating beauty and talent, Lamarr rose to fame as one of the leading actresses of Hollywood's Golden Age, starring in iconic films such as \"Algiers\" and \"Samson and Delilah.\" Beyond her on-screen success, Lamarr possessed a brilliant mind for invention, co-creating a groundbreaking frequency-hopping spread spectrum technology during World War II that laid the foundation for modern wireless communication systems. Her legacy endures as a symbol of the remarkable intersection between beauty, talent, and intellect, cementing her status as an iconic figure in both the entertainment industry and the field of scientific innovation."
+    },
+    {
+      "id": "2",
+      "name": "Marilyn Monroe",
+      "imageUrl": "https://imgur.com/d5Q3rlO.jpg",
+      "description": "Marilyn Monroe, born Norma Jeane Mortenson (later baptized as Norma Jeane Baker) on June 1, 1926, was an American actress, model, and cultural icon. Rising to fame in the 1950s, Monroe became one of Hollywood's most enduring sex symbols, known for her blonde bombshell persona and captivating presence on screen. She starred in acclaimed films like \"Gentlemen Prefer Blondes\" (1953) and \"Some Like It Hot\" (1959), garnering widespread acclaim and solidifying her status as a Hollywood legend. Beyond her acting career, Monroe challenged societal norms, becoming a fashion icon and symbol of female empowerment. Despite her untimely death at 36 in 1962, Marilyn Monroe's legacy remains a significant influence on popular culture, leaving an enduring mark as an iconic figure of beauty, talent, and allure."
+    },
+    {
+      "id": "3",
+      "name": "Cillian Murphy",
+      "imageUrl": "https://imgur.com/Emc2ICj.jpg",
+      "description": "Cillian Murphy is an Irish actor known for his versatility and intense performances. With piercing blue eyes and a chameleon-like ability to inhabit diverse roles, Murphy has garnered critical acclaim for his work in film and television. He gained widespread recognition for his portrayal of menacing characters in films like \"28 Days Later\" (2002) and \"Batman Begins\" (2005), as well as his lead role in the acclaimed television series \"Peaky Blinders.\" Murphy's magnetic presence and range as an actor have solidified his status as one of the most talented and compelling performers of his generation."
+    },
+    {
+      "id": "4",
+      "name": "Scarlett Johansson",
+      "imageUrl": "https://imgur.com/8EFlEZS.jpg",
+      "description": "Scarlett Johansson is a prominent American actress known for her exceptional talent and versatility on both the big and small screens. With a career spanning decades, Johansson has captivated audiences with her compelling performances across various genres, from action-packed blockbusters to thought-provoking dramas. She has garnered widespread acclaim and numerous accolades for her roles in films such as \"Lost in Translation\" (2003), \"Marriage Story\" (2019), and her portrayal of Natasha Romanoff, also known as Black Widow, in the Marvel Cinematic Universe. Beyond her acting prowess, Johansson is celebrated for her intelligence, wit, and advocacy work, making her a revered figure in the entertainment industry and beyond."
+    },
+    {
+      "id": "5",
+      "name": "Natalie Portman",
+      "imageUrl": "https://imgur.com/vk6H1se.jpg",
+      "description": "Natalie Portman is a highly acclaimed American actress, director, and producer, known for her remarkable talent and versatility. Rising to prominence with her breakout role in \"Leon: The Professional\" (1994), Portman has since delivered compelling performances in a diverse range of films, earning critical acclaim and numerous awards, including an Academy Award for Best Actress for her role in \"Black Swan\" (2010). She has showcased her acting prowess in a variety of genres, from dramas like \"Closer\" (2004) to science fiction epics such as the \"Star Wars\" prequel trilogy, where she portrayed Padmé Amidala. Additionally, Portman is recognized for her advocacy work, particularly in areas such as women's rights and environmental conservation, further solidifying her influence both in the entertainment industry and as a cultural icon."
+    },
+    {
+      "id": "6",
+      "name": "Leonardo DiCarpio",
+      "imageUrl": "https://imgur.com/ynlgqZ9.jpg",
+      "description": "Leonardo DiCaprio is a highly acclaimed American actor known for his exceptional talent and dedication to his craft. With a career spanning decades, DiCaprio has delivered compelling performances in a wide range of roles, showcasing his versatility and ability to embody complex characters with depth and authenticity. From his early breakthrough in \"Titanic\" (1997) to his collaborations with esteemed directors like Martin Scorsese in films such as \"The Departed\" (2006) and \"The Wolf of Wall Street\" (2013), DiCaprio has consistently earned praise and numerous accolades, including an Academy Award for Best Actor for his role in \"The Revenant\" (2015). Beyond his acting career, DiCaprio is also known for his environmental activism, using his platform to advocate for climate change awareness and conservation efforts."
+    }
+  ]
+}
